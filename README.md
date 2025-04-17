@@ -1,6 +1,6 @@
 # my debian setup
 
-***Not Tested***
+**Not Tested !**
 
 First,
 `su`
