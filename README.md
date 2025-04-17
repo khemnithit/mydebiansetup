@@ -1,5 +1,5 @@
-# my debian setup
+## my debian setup
 
-To setup any debian system with this set of commands, First,
-'su'
+First,
+`su`
 and enter your root password
