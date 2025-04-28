@@ -4,9 +4,12 @@
 3. https://flathub.org/setup/Debian \
 4. https://youtu.be/ozYKkaVK0_A \
 5. https://askubuntu.com/questions/993666/how-do-i-install-obs \
-6. X https://docs.syncthing.net/intro/getting-started.html \
-7. https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script \
-8. https://immich.app/docs/install/docker-compose \
-9. https://tailscale.com/download/linux \
-10. https://github.com/syncthing/syncthing/blob/main/README-Docker.md \
-11. X https://www.reddit.com/r/linuxquestions/comments/sd0rg4/is_it_ok_to_install_multiple_flatpaks_at_once/?chainedPosts=t3_cjx58f \
+6. https://docs.syncthing.net/intro/getting-started.html \
+7. https://docs.syncthing.net/users/autostart.html#linux \
+8. https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script \
+9. https://immich.app/docs/install/docker-compose \
+10. https://tailscale.com/download/linux \
+11. https://github.com/syncthing/syncthing/blob/main/README-Docker.md \
+12. X https://www.reddit.com/r/linuxquestions/comments/sd0rg4/is_it_ok_to_install_multiple_flatpaks_at_once/?chainedPosts=t3_cjx58f \
+13. https://askubuntu.com/questions/806127/how-to-install-audacity-software-in-ubuntu \
+14. 
