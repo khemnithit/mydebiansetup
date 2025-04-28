@@ -7,9 +7,12 @@ First,
 and enter your root password.
 
 ## PC
+*check package list before start*
 ```
 apt update && apt upgrade \
-&& apt install task-thai-desktop flatpak gnome-software-plugin-flatpak virt-manager obs-studio curl \
+&& apt install task-thai-desktop flatpak gnome-software-plugin-flatpak virt-manager obs-studio curl syncthing audacity \
+&& systemctl enable syncthing@khem.service \
+&& systemctl start syncthing@khem.service \
 && flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo \
 && cd \
 && curl -fsSL https://get.docker.com -o get-docker.sh \
