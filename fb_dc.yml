@@ -1,0 +1,9 @@
+services:
+  filebrowser:
+    image: filebrowser/filebrowser
+    container_name: filebrowser
+    volumes:
+      - /home/kserver:/srv
+    ports:
+      - 8080:80
+    restart: always
