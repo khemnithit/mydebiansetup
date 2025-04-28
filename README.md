@@ -38,5 +38,10 @@ apt update && apt upgrade && cd \
 && cd && cd /home/kserver \
 && mkdir ./syncthing-app \
 && cd ./syncthing-app \
-&& wget -O docker-compose.yml https
+&& wget -O docker-compose.yml https://raw.githubusercontent.com/khemnithit/mydebiansetup/refs/heads/main/st_dc.yml \
+&& cd && cd /home/kserver \
+&& mkdir ./filebrowser-app \
+&& cd ./filebrowser-app \
+&& wget -O docker-compose.yml https://raw.githubusercontent.com/khemnithit/mydebiansetup/refs/heads/main/fb_dc.yml \
+&& cd \
 ```
