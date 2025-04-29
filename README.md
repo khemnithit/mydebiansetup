@@ -9,7 +9,7 @@ and enter your root password.
 ## PC "khem"
 ```
 apt update && apt upgrade && cd \
-&& apt install task-thai-desktop flatpak gnome-software-plugin-flatpak virt-manager obs-studio curl syncthing audacity \
+&& apt install task-thai-desktop flatpak gnome-software-plugin-flatpak virt-manager obs-studio curl syncthing audacity gnome-boxes \
 && systemctl enable syncthing@khem.service \
 && systemctl start syncthing@khem.service \
 && flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo \
