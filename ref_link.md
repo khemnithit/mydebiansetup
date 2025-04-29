@@ -19,3 +19,8 @@
 
 1. https://serverfault.com/questions/976544/how-debians-preseed-install-work \
 2. 
+
+---
+
+1. https://www.debugpoint.com/share-folder-gnome-boxes/ \
+2. 
