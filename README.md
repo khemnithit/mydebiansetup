@@ -21,7 +21,6 @@ and reboot. Then,
 and enter your root password.
 ```
 cd \
-&& flatpak install flathub org.gnome.Epiphany \
 && flatpak install flathub org.shotcut.Shotcut \
 && flatpak install flathub com.spotify.Client \
 ```
