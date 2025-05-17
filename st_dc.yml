@@ -2,7 +2,7 @@ services:
   syncthing:
     image: syncthing/syncthing
     container_name: syncthing
-    hostname: pi-syncthing
+    hostname: asmr-syncthing
     volumes:
       - /home/khem:/var/syncthing
     ports:
