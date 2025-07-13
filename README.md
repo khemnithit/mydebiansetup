@@ -7,9 +7,7 @@ and enter your root password.
 ## PC
 ```
 apt update && apt upgrade && cd \
-&& apt install task-thai-desktop flatpak gnome-software-plugin-flatpak syncthing obs-studio audacity gnome-boxes \
-&& systemctl enable syncthing@khem.service \
-&& systemctl start syncthing@khem.service \
+&& apt install task-thai-desktop flatpak gnome-software-plugin-flatpak obs-studio audacity gnome-boxes rapid-photo-downloader \
 && flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo \
 ```
 and reboot. Then,
